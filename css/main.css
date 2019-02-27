@@ -87,11 +87,6 @@ hr {
 #projects li img {
 
     width: 100%;
-
-}
-
-#projects li:first-child img {
-
     box-shadow: 0px 2px 5px #ccc;
 
 }
