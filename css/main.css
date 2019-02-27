@@ -79,7 +79,8 @@ hr {
 
 #projects li {
 
-    width: 50%;
+    width: 80vw;
+    max-width: 600px;
     margin: 30px 0;
 
 }
