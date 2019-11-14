@@ -1,5 +1,5 @@
 
-const staticCacheName = 'nikita-t-static-v2.0.5';
+const staticCacheName = 'nikita-t-static-v2.0.6';
 
 
 self.addEventListener('install', function(event) {
