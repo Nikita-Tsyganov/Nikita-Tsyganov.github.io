@@ -112,11 +112,10 @@ a:focus {
 
 }
 
-#projects li a:first-child:hover,
-#projects li a:first-child:focus {
+#projects li a:last-child:hover,
+#projects li a:last-child:focus {
 
     outline: none;
-    text-decoration: underline;
     box-shadow: 0px 10px 15px #ccc;
     transform: scale(1.05);
 
