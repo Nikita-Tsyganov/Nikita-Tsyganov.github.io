@@ -52,6 +52,24 @@ hr {
 
 }
 
+a {
+
+    color: #333;
+    display: block;
+    text-decoration: none;
+    transition-duration: .3s;
+    transition-timing-function: ease-in-out;
+
+}
+
+a:hover,
+a:focus {
+
+    outline: none;
+    transform: scale(1.2);
+
+}
+
 #main-content {
 
     background-color: #fff;
