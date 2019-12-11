@@ -112,38 +112,13 @@ a:focus {
 
 }
 
-#projects li img:first-child:hover,
-#projects li img:first-child:focus {
+#projects li a:first-child:hover,
+#projects li a:first-child:focus {
 
     outline: none;
     text-decoration: underline;
     box-shadow: 0px 10px 15px #ccc;
     transform: scale(1.05);
-
-}
-
-#projects li a:first-child {
-
-    display: block;
-    text-decoration: none;
-    transition-duration: .3s;
-    transition-timing-function: ease-in-out;
-
-}
-
-#projects li a:first-child:hover,
-#projects li a:first-child:focus {
-
-    outline: none;
-    color: #333;
-    text-decoration: underline;
-    transform: scale(1.2);
-
-}
-
-#projects li a:first-child {
-
-    color: #333;
 
 }
 
@@ -223,7 +198,6 @@ i {
 #footer a:hover,
 #footer a:focus {
 
-    text-decoration: underline;
     color: var(--footer-color);
 
 }
