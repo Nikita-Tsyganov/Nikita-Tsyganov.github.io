@@ -180,7 +180,7 @@ i {
 #footer {
 
     width: 100%;
-    background-color: #0b4c85;;
+    background-color: #0b4c85;
     color: var(--footer-color);
     font: var(--footer-font);
     outline-color: var(--footer-color);
